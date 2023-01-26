@@ -1,0 +1,19 @@
+.main-content{
+    text-align: center;
+    width: 364px;
+    min-height: 100px;
+    margin: 0 auto;
+    background-color: lightblue;
+    margin-top: 50px;
+    border-radius: 50px;
+}
+.main-content-items{
+    padding: 50px;
+}
+.form-content input{
+    margin-right: 20px;
+}
+.form-items{
+    display: flex;
+    gap: 29px;
+}

@@ -1,0 +1,8 @@
+*{
+    margin: 0px;
+}
+.header{
+    text-align: center;
+    background-color: lightgray;
+    padding:10px;
+}

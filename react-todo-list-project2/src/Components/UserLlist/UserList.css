@@ -1,0 +1,14 @@
+.user-items{
+    list-style-type: none;
+    display: flex;
+    padding-inline-start: 0px;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+.delete-btn{
+    margin-right: 10px;
+}
+.user-item-content{
+    padding-inline-start: 0px;
+    margin-top: 20px;
+}
